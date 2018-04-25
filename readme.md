@@ -124,7 +124,7 @@
 [babelLink]:https://babeljs.io/
 [esLintImg]: https://github.com/Max-im/node-react-tmpl/blob/master/icons/esLint.jpg?raw=true
 [esLintLink]:https://eslint.org/
-[typeScriptImg]: https://github.com/Max-im/node-react-tmpl/blob/master/icons/esLint.jpg?raw=true
+[typeScriptImg]: https://github.com/Max-im/node-react-tmpl/blob/master/icons/ts.jpg?raw=true
 [typeScriptLink]: https://www.typescriptlang.org/
 [speedTestImg]: https://github.com/Max-im/node-react-tmpl/blob/master/icons/speedTest.jpg?raw=true
 [speedTestLink]: https://developers.google.com/speed/pagespeed/insights
